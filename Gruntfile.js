@@ -88,9 +88,9 @@ module.exports = function(grunt) {
           },
           {
             expand: true,
-            cwd: 'src/assets/js/components/font-awesome/font',
+            cwd: 'src/assets/js/components/font-awesome/fonts',
             src:['**'],
-            dest:'dist/assets/font'
+            dest:'dist/assets/fonts'
           }
         ]
       },

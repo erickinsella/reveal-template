@@ -32,13 +32,19 @@ body {
   color: @text-color;
 }
 
+.reveal .fa-icon,
+.reveal [class^="icon-"],
+.reveal [class*=" icon-"]  {
+  font-family: 'FontAwesome';
+}
+
 .reveal .opi-logo {
   position: fixed;
   top: 50px;
   left: 50px;
   width: floor(@logo-width * @logo-default-scale);
   height: floor(@logo-height * @logo-default-scale);
-  background-image: url('../img/opi-logo.png');
+  background-image: url('../img/2015-OPI-Logo-Stacked.png');
   background-repeat: no-repeat;
   background-position:left top;
   background-size: 100%;
