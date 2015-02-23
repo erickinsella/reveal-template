@@ -1,7 +1,11 @@
 reveal-template
 ===============
 
-#Reveal.js Template
+#OPI Reveal.js Template with new logos
+
+![Example slide 1](https://raw.githubusercontent.com/erickinsella/reveal-template/master/dist/assets/img/opi-revealjs-template.jpg)
+
+![Example slide 2](https://raw.githubusercontent.com/erickinsella/reveal-template/master/dist/assets/img/opi-revealjs-template2.jpg)
 
 
 ## Dependencies
